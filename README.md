@@ -1,2 +1,2 @@
 # Algorithms-4th-C-Coding
-Algorithms 4th Edition using C++
+Original programing language is Java, use C++ to re-code the most key algorithms
