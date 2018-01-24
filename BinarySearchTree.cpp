@@ -1,7 +1,7 @@
 //binary search tree
 //a binary tree is a tree who has at most 2 children
 //binary search tree: a binary tree whose left sub-tree key are smaller than the root key
-//and whose right sub-tree keys are larger than the root key  
+//and whose right sub-tree keys are larger than the root key..  
 
 #include <iostream>
 #include <string>
